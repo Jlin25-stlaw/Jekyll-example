@@ -4,7 +4,7 @@ author :
   email : jkbrow25@stlaw.edu
   github : Jlin25-stlaw
 
-url: "https://Jlin25-stlaw.github.io" # the base hostname & protocol for your site
+url: "https://jlin25-stlaw.github.io/Jekyll-example/ # the base hostname & protocol for your site
 baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
